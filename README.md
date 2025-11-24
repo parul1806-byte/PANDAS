@@ -348,8 +348,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 - 📧 Email: parulpal7088@gmail.com.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/parul-pal-145ba1306/)
-- 🐱 GitHub: [@yourusername](https://github.com/parul1806-byte)
+- 💼 LinkedIn:https://www.linkedin.com/in/parul-pal-145ba1306/
+- 🐱 GitHub:https://github.com/parul1806-byte
 
 
 ## 🙏 Acknowledgments
